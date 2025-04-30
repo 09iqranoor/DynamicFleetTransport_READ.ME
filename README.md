@@ -42,7 +42,7 @@ You can view the live deployed website here:
 ## 👩‍💻 Developed By
 
 - **Name**: Iqra Noor  
-- **Role**: Frontend Developer
+
 
 ---
 
